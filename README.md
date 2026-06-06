@@ -1,6 +1,6 @@
 # Hi there, I'm Raj 👋
 
-**AI & Data Science undergraduate** @ KJ Somaiya Institute of Technology · CGPA 9.86 · Mumbai, India
+**AI & Data Science undergraduate** @ KJ Somaiya Institute of Technology · Mumbai, India
 
 Second-year undergrad who ships real products — a live SaaS platform, a FinBERT-powered trading engine, and a production Windows desktop app, all as solo projects. Currently seeking **Software Engineering or AI/ML internships** where I can contribute immediately.
 
@@ -98,9 +98,9 @@ Technical author at **The Global Delta** — writing beginner-friendly articles 
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-odedara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/raj-odedara](https://www.linkedin.com/in/raj-odedara-8015471b1/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:odedararaj456@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/e9w6PmBZ5s/)
 
 ---
 
