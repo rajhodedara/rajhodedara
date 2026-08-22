@@ -19,7 +19,7 @@
       </div>
     </td>
     <td width="50%" align="center" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=rajhodedara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Raj's GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajhodedara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Raj's GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -55,17 +55,17 @@
   <tr>
     <td width="33%" align="center" style="border: none;">
       <a href="https://github.com/rajhodedara/live-sport-plugin">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajhodedara&repo=live-sport-plugin&theme=tokyonight&hide_border=true" alt="live-sport-plugin" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rajhodedara&repo=live-sport-plugin&theme=tokyonight&hide_border=true" alt="live-sport-plugin" />
       </a>
     </td>
     <td width="33%" align="center" style="border: none;">
       <a href="https://github.com/rajhodedara/StartupScout-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajhodedara&repo=StartupScout-AI&theme=tokyonight&hide_border=true" alt="StartupScout-AI" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rajhodedara&repo=StartupScout-AI&theme=tokyonight&hide_border=true" alt="StartupScout-AI" />
       </a>
     </td>
     <td width="33%" align="center" style="border: none;">
       <a href="https://github.com/rajhodedara/Synapse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajhodedara&repo=Synapse&theme=tokyonight&hide_border=true" alt="Synapse" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rajhodedara&repo=Synapse&theme=tokyonight&hide_border=true" alt="Synapse" />
       </a>
     </td>
   </tr>
