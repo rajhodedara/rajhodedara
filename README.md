@@ -1,109 +1,98 @@
-# Hi there, I'm Raj 👋
+<h1 align="center">
+  Hi there, I'm Raj <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="28px">
+</h1>
 
-**AI & Data Science undergraduate** @ KJ Somaiya Institute of Technology · Mumbai, India
+<div align="center">
+  <i>Architecting Agentic AI, High-Performance Systems, and tools that people actually use.</i>
+</div>
 
-Second-year undergrad who ships real products — a live SaaS platform, a FinBERT-powered trading engine, and a production Windows desktop app, all as solo projects. Currently seeking **Software Engineering or AI/ML internships** where I can contribute immediately.
+<br />
 
----
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h3 align="center">🚀 About Me</h3>
+      <div align="left">
+        <p>I'm a software engineer with a heavy focus on <b>Autonomous AI pipelines</b>, <b>Computer Vision</b>, and <b>robust TypeScript/Python architectures</b>.</p>
+        <p>Whether I'm building multi-modal LLM frameworks, optimizing 4D Gaussian Splatting, or developing native Windows tiling managers, my goal is always to ship mastercraft, high-performance software.</p>
+        <p>I thrive at the intersection of deep tech research and pragmatic, scalable product engineering.</p>
+      </div>
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=rajhodedara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Raj's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-## 🛠 Tech Stack
+<br />
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="100%" align="center" colspan="2" style="border: none;">
+      <h3 align="center">⚙️ Tech Stack</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <b>AI & Vision</b><br><br>
+      <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,tensorflow" alt="AI Stack" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <b>Systems & Web</b><br><br>
+      <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,cpp,docker" alt="Systems Stack" />
+    </td>
+  </tr>
+</table>
 
-**Frameworks & Libraries**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<br />
 
-**AI / ML / NLP**
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="100%" align="center" colspan="3" style="border: none;">
+      <h3 align="center">🔥 Top Projects</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" style="border: none;">
+      <a href="https://github.com/rajhodedara/live-sport-plugin">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajhodedara&repo=live-sport-plugin&theme=tokyonight&hide_border=true" alt="live-sport-plugin" />
+      </a>
+    </td>
+    <td width="33%" align="center" style="border: none;">
+      <a href="https://github.com/rajhodedara/StartupScout-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajhodedara&repo=StartupScout-AI&theme=tokyonight&hide_border=true" alt="StartupScout-AI" />
+      </a>
+    </td>
+    <td width="33%" align="center" style="border: none;">
+      <a href="https://github.com/rajhodedara/Synapse">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajhodedara&repo=Synapse&theme=tokyonight&hide_border=true" alt="Synapse" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Databases & Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<br />
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h3 align="center">📈 Consistency</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajhodedara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center" valign="middle" style="border: none;">
+      <h3 align="center">📫 Let's Connect</h3>
+      <br>
+      <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+      &nbsp;&nbsp;
+      <a href="https://twitter.com/YOUR_TWITTER_USERNAME_HERE"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+      &nbsp;&nbsp;
+      <!-- Uncomment to add portfolio or email! -->
+      <!-- <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a> -->
+    </td>
+  </tr>
+</table>
 
----
-
-## 🔨 Featured Projects
-
-### 🌏 [OriginEats](https://github.com/rajhodedara/OriginEats)
-> Full-stack SaaS platform for restaurant market intelligence — **live on Vercel**
-
-- Built GeoJSON-powered restaurant density heatmaps across Mumbai's 24 wards, indexing 500+ data points to surface competitor density and market opportunity layers
-- Engineered a rule-based AI recommendation engine scoring venture success probability by analysing location demand, competitor pricing, and cuisine trends
-- Deployed end-to-end with authentication, subscription lifecycle management, UPI integration, coupon system, and real-time data queries
-
-`React` `Vite` `Supabase` `GeoJSON` `Tailwind CSS`
-
----
-
-### 📈 [StockPulse](https://github.com/rajhodedara/StockPulse)
-> Multi-signal trading intelligence system
-
-- Architected a signal fusion system combining **FinBERT sentiment (30%)**, technical indicators RSI/MACD/Bollinger Bands (25%), and Polymarket crowd data (45%) into BUY/SELL/HOLD verdicts with 0–1 confidence scoring
-- Designed 5 FastAPI REST endpoints with TTL caching for OHLCV history, indicators, and Polymarket data
-- Built interactive Plotly dashboards with candlestick/area/line charts overlaid with SMA 7/21/50, Bollinger Bands, and volume coloring
-
-`FastAPI` `Streamlit` `FinBERT` `Plotly` `Pandas` `yfinance`
-
----
-
-### ⚡ [Synapse](https://github.com/rajhodedara/Synapse)
-> Production Windows desktop app — universal productivity launcher
-
-- Built a keyboard-centric launcher with real-time search, AI integrations, clipboard manager, OCR, and system controls enabling seamless multitasking
-- Integrated high-performance file search using Voidtools "Everything" SDK with smart filtering, categorized results, and debouncing
-- Developed advanced window management (tiling, layouts, multi-monitor support, hotkeys) using PyQt6 and native Windows APIs
-
-`PyQt6` `Win32 API` `pywin32` `ctypes` `PyInstaller`
-
----
-
-### 📦 Courier Service DBMS
-> Built to solve real workflow inefficiencies in a family business
-
-- Identified manual booking bottlenecks from direct operational experience; automated end-to-end courier booking, billing, and record management
-- Implemented advanced SQL filtering (ILIKE, date ranges), CSV/Excel export, thermal printer integration, and real-time autocomplete for sender/receiver lookup
-
-`Python` `Tkinter` `PostgreSQL` `Supabase`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajhodedara&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Raj's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajhodedara&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
-</p>
-
----
-
-## ✍️ Writing
-
-Technical author at **The Global Delta** — writing beginner-friendly articles on programming concepts and applied AI for a developer audience.
-
----
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/raj-odedara](https://www.linkedin.com/in/raj-odedara-8015471b1/))
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:odedararaj456@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/e9w6PmBZ5s/)
-
----
-
-<p align="center">
-  <i>Open to internship opportunities in Software Engineering and AI/ML — feel free to reach out!</i>
-</p>
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajhodedara&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
